@@ -18,12 +18,12 @@ class _CarouselImagesState extends State<CarouselImages> {
   int activeIndex = 0;
   final controller = CarouselController();
   final urlImages = [
-    '/images/logo_terrible.png',
-    '/images/banner_terrible.jpeg',
-    '/images/mezcal.jpeg',
-    '/images/logo_terrible.png',
-    '/images/banner_terrible.jpeg',
-    '/images/mezcal.jpeg',
+    'assets/images/logo_terrible.png',
+    'assets/images/banner_terrible.jpeg',
+    'assets/images/mezcal.jpeg',
+    'assets/images/logo_terrible.png',
+    'assets/images/banner_terrible.jpeg',
+    'assets/images/mezcal.jpeg',
   ];
 
   @override

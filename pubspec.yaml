@@ -38,3 +38,6 @@ flutter:
 
   assets:
     - assets/
+    - assets/images/banner_terrible.jpeg
+    - assets/images/logo_terrible.png
+    - assets/images/mezcal.jpeg

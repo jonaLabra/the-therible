@@ -13,7 +13,7 @@ class HomeImage extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.circular(20),
         child: Image.asset(
-          '/images/banner_terrible.jpeg',
+          'assets/images/banner_terrible.jpeg',
           width: kdDesktopMaxContentWidth * 0.4,
           height: getValueForScreenType<double>(
             context: context,

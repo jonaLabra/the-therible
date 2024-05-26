@@ -29,7 +29,7 @@ class TerribleIcon extends StatelessWidget {
             radius: 30,
             child: Image.asset(
               height: 100,
-              '/images/logo_terrible.png',
+              'assets/images/logo_terrible.png',
               fit: BoxFit.fill,
             ))
       ],
